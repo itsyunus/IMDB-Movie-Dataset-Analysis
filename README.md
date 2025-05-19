@@ -38,7 +38,7 @@ The dataset `imdb_movies.csv` includes various movie attributes such as:
 ## 🚀 Getting Started
 1. Clone this repository.
 2. Install required packages: `pip install -r requirements.txt`
-3. Run the notebook: `imdb mvoies.ipynb`
+3. Run the notebook: `Movies.ipynb`
 
 ## 📌 Project Structure
 - `Movies.ipynb`: Main analysis notebook
