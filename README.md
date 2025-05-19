@@ -41,7 +41,7 @@ The dataset `imdb_movies.csv` includes various movie attributes such as:
 3. Run the notebook: `imdb mvoies.ipynb`
 
 ## 📌 Project Structure
-- `imdb mvoies.ipynb`: Main analysis notebook
+- `Movies.ipynb`: Main analysis notebook
 - `imdb_movies.csv`: Dataset
 - `IMDB Movies PPT.pptx`: Summary presentation
-- `Pragathi Final report CSM 355.pdf`: Final report
+- `IMDB Movies Report.pdf`: Final report
